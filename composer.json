@@ -1,0 +1,16 @@
+{
+    "name": "Nicole/rw-emerson",
+    "authors": [
+        {
+            "name": "Nicole Archambault",
+            "email": "sofrlowi@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "~2.6",
+        "monolog/monolog": "~1.14",
+        "twig/twig": "~1.18",
+        "slim/views": "0.1.*",
+        "swiftmailer/swiftmailer": "~5.4"
+    }
+}
